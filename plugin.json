@@ -1,0 +1,18 @@
+{
+  "name": "project-dir",
+  "displayName": "Project-Dir",
+  "version": "1.0.0",
+  "description": "Global directory & project organizer for Google Antigravity. Isolates every coding task into its own structured project directory under a customizable root folder with /project-dir slash command support.",
+  "author": {
+    "name": "Antigravity"
+  },
+  "keywords": [
+    "project-dir",
+    "projects",
+    "directory",
+    "organization"
+  ],
+  "skills": [
+    "skills/project-dir"
+  ]
+}
