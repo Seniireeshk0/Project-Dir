@@ -1,4 +1,4 @@
-Project-Dir
+**Project-Dir**
 
 A global directory & project organizer for Google Antigravity. Automatically routes every task into its own dedicated folder under your chosen root directory with instant /project-dir slash command control.
 
@@ -11,7 +11,7 @@ Dedicated Project Folders: Every task, app, script, or experiment automatically 
 Instant Slash Command (/project-dir): Inspect current paths, switch directories, list existing projects, or launch a visual Windows folder picker dialog directly from chat.
 Interactive CLI & GUI: Built-in PowerShell and Python tools with native Windows folder selection dialogs.
 
-🚀 How to Use
+**🚀 How to Use**
 1. In Antigravity Chat
 
 Simply type:
