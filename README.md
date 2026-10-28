@@ -10,21 +10,7 @@ Centralized Root Folder: Choose any master folder (e.g. C:\Antigravity or D:\Pro
 Dedicated Project Folders: Every task, app, script, or experiment automatically gets its own isolated subdirectory (src/, docs/, scripts/, README.md).
 Instant Slash Command (/project-dir): Inspect current paths, switch directories, list existing projects, or launch a visual Windows folder picker dialog directly from chat.
 Interactive CLI & GUI: Built-in PowerShell and Python tools with native Windows folder selection dialogs.
-📁 Repository Structure
-text
-Project-Dir/
-├── plugin.json                 # Antigravity plugin manifest
-├── README.md                   # Documentation & guide
-├── rules/
-│   └── AGENTS.md               # Global agent enforcement rules
-├── skills/
-│   ├── project-dir/
-│   │   └── SKILL.md            # /project-dir slash command definition
-│   └── workspace-manager/
-│       └── SKILL.md            # Extended directory management workflows
-└── scripts/
-    ├── workspace_tool.ps1      # PowerShell tool with Windows GUI picker
-    └── workspace_tool.py       # Python CLI utility
+
 🚀 How to Use
 1. In Antigravity Chat
 
